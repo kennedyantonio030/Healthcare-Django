@@ -21,12 +21,12 @@ On Windows - virtualenv_name/Scripts/activate
 
 3. Firstly you need to clone or download my project from github repositories:
 ```bash
-git clone https://github.com/hossainchisty/Health-Care-Django.git
+git clone https://github.com/hossainchisty/Healthcare-Django.git
 ```
 
 4. Then enter the corresponding directory:
 ```bash
-cd Health-Care-Django
+cd Healthcare-Django
 ```
 5. Install dependencies
 ```bash
@@ -55,4 +55,4 @@ EMAIL_HOST_PASSWORD = 'your email password'
 ```
 Thanks ❤ Happy Coding 🎉
 <br>
-Author: Hossain Chisty
+Author: Kennedy Antonio
