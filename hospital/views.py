@@ -1,6 +1,6 @@
-from django.shortcuts import render,redirect
+from django.shortcuts import redirect
 from django.contrib import messages
-from django.views.generic import ListView, DetailView, TemplateView
+from django.views.generic import ListView, TemplateView
 from .models import Doctor
 
 
