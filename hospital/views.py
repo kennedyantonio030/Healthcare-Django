@@ -31,7 +31,7 @@ class ContactView(TemplateView):
                 subject+ " - " + name,
                 message+ 
                 email_from,
-                ['yourname@gmail.com',],
+                ['kennedyantonio030@gmail.com',],
                 fail_silently=False,
             )
             messages.success(request, f'Your message has been sent. Thank you {name}!')
